@@ -1,0 +1,4 @@
+Name: Title is in the wrong language
+Severity:S2
+Priority: P3
+Steps: 1. Open the main page 2. Look at the title
