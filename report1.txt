@@ -1,0 +1,6 @@
+Name: Registration Form accepts numbers
+Severity: S3
+Priority: P2
+Steps: 1. Open registration form. 2. Type in numbers
+Result: sytem accepts numbers
+Expected results: system doesn't accept numbers
